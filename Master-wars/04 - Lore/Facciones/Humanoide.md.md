@@ -1,3 +1,0 @@
-- [[Humanos.md]]
-- [[Marcianos.md]]
-- [[Venusianos.md]]

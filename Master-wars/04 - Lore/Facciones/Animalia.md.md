@@ -1,3 +1,0 @@
-- [[Guepardia.md]]
-- [[Lupertos.md]]
-- [[Rinocerontia.md]]

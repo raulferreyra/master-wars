@@ -1,0 +1,5 @@
+
+- [[Animalia]]
+- [[Technia]]
+- [[Humanoide]]
+	

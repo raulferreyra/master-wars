@@ -1,4 +1,0 @@
-- [[Facciones.md]]
-- [[Razas.md]]
-- [[Sistemas Lore.md]]
-- [[Cronología.md]]

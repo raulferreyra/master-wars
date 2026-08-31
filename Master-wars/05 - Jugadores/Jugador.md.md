@@ -1,4 +1,0 @@
-- [[Identidad.md]]
-- [[Capital.md]]
-- [[Colonias.md]]
-- [[Títulos.md]]
