@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15d1ed9a59c1dc31",
+        "id": "70576d25b8a72633",
         "type": "tabs",
         "children": [
           {
-            "id": "fb873e4bfe791fbf",
+            "id": "a4f6fc04abe8a481",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -176,8 +176,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fb873e4bfe791fbf",
+  "active": "a4f6fc04abe8a481",
   "lastOpenFiles": [
+    "04 - Lore/Facciones/Humanoide.md",
+    "04 - Lore/Facciones/Animalia.md",
+    "04 - Lore/Facciones/Technia.md",
     "04 - Lore/Razas.md",
     "04 - Lore/Facciones.md",
     "04 - Lore/Lore.md",
@@ -198,9 +201,6 @@
     "04 - Lore/Razas/Humanos.md",
     "04 - Lore/Razas/Guepardia.md",
     "04 - Lore/Razas/Automatia.md",
-    "04 - Lore/Facciones/Technia.md",
-    "04 - Lore/Facciones/Humanoide.md",
-    "04 - Lore/Facciones/Animalia.md",
     "99 - Pendientes/Decisiones pendientes.md",
     "07 - Arquitectura/Arquitectura general.md",
     "99 - Pendientes",
