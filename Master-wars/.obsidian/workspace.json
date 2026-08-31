@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "671cd45a539d8d84",
+        "id": "26bf88b7b8b7d8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "b1300a040d178ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          }
-        ]
-      },
-      {
-        "id": "11e48d2754d06411",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e95f25c589edc4d",
+            "id": "0026ce8c97c6f264",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -129,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -172,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema"
             }
           }
         ]
@@ -199,8 +176,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b1300a040d178ff9",
+  "active": "0026ce8c97c6f264",
   "lastOpenFiles": [
-    "Bienvenido.md"
+    "00 - Master Wars.md",
+    "99 - Pendientes/Decisiones pendientes.md",
+    "07 - Arquitectura/Arquitectura general.md",
+    "99 - Pendientes",
+    "07 - Arquitectura/API.md",
+    "07 - Arquitectura/Persistencia.md",
+    "07 - Arquitectura/Frontend React.md",
+    "07 - Arquitectura/Backend Go.md",
+    "06 - Gameplay/Colonización.md",
+    "07 - Arquitectura",
+    "07 - Arquitectura.md",
+    "06 - Gameplay/Combate.md",
+    "06 - Gameplay/Construcción.md",
+    "06 - Gameplay/Diplomacia.md",
+    "06 - Gameplay/Economía.md",
+    "06 - Gameplay/Exploración.md",
+    "06 - Gameplay/Tropas.md",
+    "06 - Gameplay/Flotas.md",
+    "06 - Gameplay/Investigación.md",
+    "06 - Gameplay/Mercantilismo.md",
+    "03 - Planetas/Recursos.md",
+    "03 - Planetas/Propiedades planetarias.md",
+    "03 - Planetas/Planetas.md",
+    "03 - Planetas/Nombres planetarios.md",
+    "03 - Planetas/Lunas.md",
+    "03 - Planetas/Habitabilidad.md",
+    "02 - Universo/Universo.md",
+    "02 - Universo/Sistemas solares.md",
+    "00 - Historia/Personajes",
+    "06 - Gameplay",
+    "05 - Jugadores",
+    "04 - Lore/Razas",
+    "04 - Lore/Facciones",
+    "04 - Lore",
+    "03 - Planetas",
+    "00 - Historia"
   ]
 }

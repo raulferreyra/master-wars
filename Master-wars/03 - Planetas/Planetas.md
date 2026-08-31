@@ -1,0 +1,5 @@
+- [[Propiedades planetarias]]
+- [[Habitabilidad]]
+- [[Lunas]]
+- [[Recursos]]
+- [[Nombres planetarios]]

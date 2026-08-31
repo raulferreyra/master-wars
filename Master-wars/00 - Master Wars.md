@@ -1,0 +1,10 @@
+
+- [[El Big Bang]]
+- [[Visión del juego]]
+- [[Universo]]
+- [[Planetas]]
+- [[Lore.md]]
+- [[Jugador.md]]
+- [[Colonización]]
+- [[Arquitectura general]]
+- [[Decisiones pendientes]]
