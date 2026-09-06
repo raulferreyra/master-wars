@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "70576d25b8a72633",
+        "id": "673a3fad42735111",
         "type": "tabs",
         "children": [
           {
-            "id": "a4f6fc04abe8a481",
+            "id": "6f0110822e805901",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Lore/Razas/Automatia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Automatia"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - Lore/Razas/Automatia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Automatia"
             }
           },
           {
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 - Lore/Razas/Automatia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Automatia"
             }
           }
         ]
@@ -176,43 +181,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a4f6fc04abe8a481",
+  "active": "66a26c2d1e744667",
   "lastOpenFiles": [
-    "04 - Lore/Facciones/Humanoide.md",
-    "04 - Lore/Facciones/Animalia.md",
-    "04 - Lore/Facciones/Technia.md",
-    "04 - Lore/Razas.md",
-    "04 - Lore/Facciones.md",
-    "04 - Lore/Lore.md",
-    "04 - Lore/Sistemas Lore.md",
-    "04 - Lore/Cronología.md",
-    "00 - Master Wars.md",
-    "05 - Jugadores/Títulos.md",
-    "05 - Jugadores/Jugador.md",
-    "05 - Jugadores/Identidad.md",
-    "05 - Jugadores/Colonias.md",
-    "05 - Jugadores/Capital.md",
-    "04 - Lore/Razas/Venusianos.md",
-    "04 - Lore/Razas/Robotta.md",
-    "04 - Lore/Razas/Rinocerontia.md",
-    "04 - Lore/Razas/Mechia.md",
-    "04 - Lore/Razas/Marcianos.md",
-    "04 - Lore/Razas/Lupertos.md",
-    "04 - Lore/Razas/Humanos.md",
-    "04 - Lore/Razas/Guepardia.md",
-    "04 - Lore/Razas/Automatia.md",
-    "99 - Pendientes/Decisiones pendientes.md",
-    "07 - Arquitectura/Arquitectura general.md",
-    "99 - Pendientes",
-    "07 - Arquitectura/API.md",
-    "07 - Arquitectura",
-    "00 - Historia/Personajes",
-    "06 - Gameplay",
-    "05 - Jugadores",
-    "04 - Lore/Razas",
-    "04 - Lore/Facciones",
-    "04 - Lore",
-    "03 - Planetas",
-    "00 - Historia"
+    "06 - Gameplay/Unidades/Flotas/Aéreas/Unidades aéreas.md",
+    "06 - Gameplay/Unidades/Flotas/Orbitales/Unidades orbitales.md",
+    "06 - Gameplay/Unidades/Flotas/Transportes/Transportes.md",
+    "06 - Gameplay/Unidades/Flotas/Transportes",
+    "06 - Gameplay/Unidades/Flotas/Orbitales",
+    "06 - Gameplay/Unidades/Flotas/Aéreas",
+    "06 - Gameplay/Unidades/Unidades.md",
+    "06 - Gameplay/Unidades/Tropas/Tropas.md",
+    "06 - Gameplay/Unidades/Flotas/Unidades orbitales.md",
+    "06 - Gameplay/Defensas/Defensas terrestres.md",
+    "06 - Gameplay/Defensas/Defensas atmosféricas.md",
+    "06 - Gameplay/Defensas/Defensas orbitales.md",
+    "06 - Gameplay/Unidades/Blindados/Blindados.md",
+    "06 - Gameplay/Unidades/Flotas/Transportes.md",
+    "06 - Gameplay/Edificios/Edificios.md",
+    "06 - Gameplay/Gameplay.md",
+    "06 - Gameplay/Unidades/Flotas/Flotas.md",
+    "06 - Gameplay/Defensas/Defensas.md",
+    "06 - Gameplay/Edificios/Oficina de reciclaje.md",
+    "06 - Gameplay/Edificios/Puerto Espacial.md",
+    "06 - Gameplay/Edificios/Puerto Aéreo.md",
+    "06 - Gameplay/Edificios/Mercado.md",
+    "06 - Gameplay/Edificios/Fábrica.md",
+    "06 - Gameplay/Edificios/Barracas.md",
+    "06 - Gameplay/Edificios",
+    "06 - Gameplay/Defensas",
+    "06 - Gameplay/Unidades/Flotas",
+    "06 - Gameplay/Unidades/Blindados",
+    "06 - Gameplay/Unidades/Tropas",
+    "06 - Gameplay/Unidades",
+    "06 - Gameplay/Puerto Espacial.md",
+    "06 - Gameplay/Puerto Aéreo.md",
+    "06 - Gameplay/Mercado.md",
+    "06 - Gameplay/Fábrica.md",
+    "06 - Gameplay/Barracas.md",
+    "99 - Pendientes"
   ]
 }

@@ -5,6 +5,6 @@
 - [[Planetas]]
 - [[Lore]]
 - [[Jugador]]
-- [[Colonización]]
+- [[Gameplay]]
 - [[Arquitectura general]]
 - [[Decisiones pendientes]]

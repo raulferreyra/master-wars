@@ -1,4 +1,9 @@
+# Facciones
 
-#Facciones #Technia #Animalia #Humanoide
+Las facciones son las tres grandes comunidades políticas y culturales del Lore. Cada una agrupa tres [[Razas]] con origen, lenguaje y especialización propios. Una facción no es una alianza elegida por jugadores: es la pertenencia inicial que da contexto a su raza.
 
-Las Facciones son la rama más alta de los grupos planetarios, estas nacen gracias a la guerra previamente existente entre los [[Technia]] y los [[Animalia]], lo que impulsa al sistema solar que conocemos a ya no solamente estar escondidos y salvar a la humanidad desde el anonimato, sino en dar pase a que se genere una nueva facción llamada "[[Humanoide]]", que toma el nombre de la raza del planeta más poblado hasta ese momento.
+- [[Technia]]: herederos mecánicos de una civilización que buscó vencer a la mortalidad mediante la transferencia a cuerpos artificiales.
+- [[Animalia]]: pueblos antropomórficos creados durante la expansión technia y emancipados tras generaciones de resistencia.
+- [[Humanoide]]: unión de humanos, marcianos y venusianos nacida en 2045, cuando se revela la protección del sistema solar.
+
+El conflicto histórico comienza entre Technia y Animalia. La aparición pública de Humanoide no borra ese conflicto: añade una tercera fuerza que rechaza tanto la expansión technia como la dependencia de antiguas guerras.

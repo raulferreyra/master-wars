@@ -1,6 +1,10 @@
-Los animalias son la segunda facción que se crea y se funda para poder batallar contra los Technia. Los animalias son animales antropomórficos (En vista de los #Humanos) pero son una de las tantas razas que la tecno-química de los Technia logró establecer a lo largo de milenios de búsqueda y error.
+# Animalia
 
-Entre las 3 razas que pertenecen (Hasta donde se sabe) a esta icónica facción, se encuentran:
+Animalia se formó a partir de pueblos antropomórficos creados o alterados por la tecnoquímica technia durante una larga etapa de experimentación y expansión. No son máquinas ni extensiones obedientes de Technia: sus sociedades se emanciparon, conservaron memoria de ese origen y se unieron para evitar volver a ser herramientas.
+
+La facción nació como resistencia frente a Technia, pero no se define solo por la guerra. Su fuerza está en la cooperación entre talentos complementarios: velocidad, estrategia y defensa comunitaria.
+
+Sus tres razas reconocidas son:
 
 - [[Guepardia]]
 - [[Lupertos]]

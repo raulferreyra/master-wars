@@ -1,4 +1,8 @@
-Las #Razas es lo más básico de cada planeta, esto permite que varias de estas en conjunto se protejan entre ellos para generar las #Facciones, las cuales permiten dar cierta relevancia a los jugadores. Cada Raza tiene una mejora que permite un #Buff a cada jugador. Para esto vamos a explicar rápidamente cada Raza con su Facción:
+# Razas
+
+Las razas son la identidad inicial de un jugador. Definen cultura, nombres, estética y una bonificación de estilo de juego. Esa bonificación nunca debe ser una ventaja absoluta: cada una necesita costes, límites y respuestas jugables equivalentes.
+
+Cada raza tiene un mundo de origen en un [[Sistemas Lore|sistema de Lore]] y pertenece a una sola facción.
 
 ## Animalia
 - [[Guepardia]]
